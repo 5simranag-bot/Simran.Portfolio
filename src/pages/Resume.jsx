@@ -119,7 +119,7 @@ export default function Resume() {
         <div style={{ padding: 'clamp(20px,3vw,26px) clamp(28px,5vw,52px)', borderBottom: '1px solid #e7dcc9' }}>
           <p className="m-0 font-serif font-medium" style={{ fontSize: 'clamp(15px,1.8vw,18px)', lineHeight: 1.6, color: '#3a342b' }}>
             Senior UX Designer with 5+ years across enterprise SaaS, internal tools and complex B2B systems. I transform fragmented workflows into
-            streamlined experiences through user-centred research, data visualisation and design systems — partnering with engineering and
+            streamlined experiences through user centred research, data visualisation and design systems partnering with engineering and
             facilitating workshops to drive product strategy.
           </p>
         </div>
